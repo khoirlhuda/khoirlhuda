@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Modding Games**
 
-- 🤝 I’m looking for help with **Robot Languages**
+- 🤝 I’m looking for help with **Machine Languages**
 
 - 💬 Ask me about **nothing**
 
